@@ -1,7 +1,8 @@
 # Programming Practical Assignment
 
 This repository contains the practical assignment for ST10490509.  
-It includes source code, documentation, and any related files.
+It contanins a series model for children of the ages of 2 and 18.
+It also contains the Flappy Bird game.
 
 ## Contents
 - SeriesModel.java
