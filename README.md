@@ -8,9 +8,6 @@ It includes source code, documentation, and any related files.
 - README
 - Any additional resources
 
-## How to Run
-Instructions for running the project (e.g., Python, Java, etc.)
-
 ## Author
 Mvuyisi Sokabo  
 Student ID: ST10490509
