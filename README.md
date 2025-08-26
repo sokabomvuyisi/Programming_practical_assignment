@@ -4,9 +4,15 @@ This repository contains the practical assignment for ST10490509.
 It includes source code, documentation, and any related files.
 
 ## Contents
-- Source code files
+- SeriesModel.java
+- Series.java
+- Main.java
+- App.java
+- FlappyBird.java
+- Images
 - README
-- Any additional resources
+# Reference
+-https://www.youtube.com/watch?v=Xw2MEG-FBsE
 
 ## Author
 Mvuyisi Sokabo  
