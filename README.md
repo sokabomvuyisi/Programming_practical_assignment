@@ -5,6 +5,8 @@ It contanins a series model for children of the ages of 2 and 18.
 It also contains the Flappy Bird game.
 
 ## Contents
+-test
+-lib
 - SeriesModel.java
 - Series.java
 - Main.java
